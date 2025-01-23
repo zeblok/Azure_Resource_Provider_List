@@ -26,6 +26,10 @@ providers=(
     "Microsoft.DevTestLab"
     "Microsoft.ContainerService"
     "Microsoft.Advisor"
+    "Microsoft.AppConfiguration"
+    "Microsoft.AVS"
+    "Microsoft.HealthcareApis"
+    "Microsoft.DataProtection"
 )
 
 for provider in "${providers[@]}"
