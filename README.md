@@ -1,1 +1,3 @@
-# Azure_Resource_Provider_List
+```bash
+Run Command: bash resource_providers.sh
+```
